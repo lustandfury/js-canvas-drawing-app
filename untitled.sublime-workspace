@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"class"
+			],
+			[
+				"ge",
+				"getElementByClassName"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"de",
+				"defaultRad"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fon-",
+				"font-family"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"body",
+				"body_id"
+			],
+			[
+				"option",
+				"option1"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"first",
+				"firstpara"
+			],
+			[
+				"h3",
+				"h3style"
+			],
+			[
+				"aler",
+				"alertmsg"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "colors.js",
+			"settings":
+			{
+				"buffer_size": 1308,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "radius.js",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 1977,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "master.css",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/david/code/JS/Learning/js canvas animation tutorial/tutorial canvas js animation.html",
+		"/home/david/code/JS/practice/practice 001/main.html",
+		"/home/david/code/JS/Learning/begginer tutorial",
+		"/home/david/code/JS/Learning/algo.html",
+		"/home/david/code/JS/jstest.html",
+		"/home/david/code/JS/Learning/calc test.html",
+		"/home/david/code/JS/Learning/scribbles.html",
+		"/home/david/code/html/da canvas t.js",
+		"/home/david/code/html/da canvas tutorial.html",
+		"/home/david/code/JS/Learning/pong tutorial.html",
+		"/home/david/code/JS/Learning/minesweeper tut.html",
+		"/home/david/code/JS/js canvas animation tutorial/tutorial canvas js animation.html",
+		"/home/david/code/css/tutorial3d flip boxes.html",
+		"/home/david/code/css/tutorial <detail><sumary>.html",
+		"/home/david/code/0 | 1 <- bit",
+		"/home/david/code/JS/js canvas animation tutorial/tutorial canvas js animation test.html",
+		"/home/david/code/JS/Learning 2/calc test.html",
+		"/home/david/code/JS/30 min tutorials /fast js tutorial - 2.html",
+		"/home/david/code/JS/30 min tutorials /fast js tutorial - 1.html",
+		"/home/david/code/JS/Learning 2/algo.html",
+		"/home/david/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/david/code/JS/calc test.html",
+		"/home/david/code/JS/jquery-2.1.1.js",
+		"/home/david/code/JS/fast js tutorial - 2.html",
+		"/home/david/code/JS/Three JS/src/renderers/webgl/WebGLShader.js",
+		"/home/david/code/JS/fast js tutorial - 2 official .html",
+		"/home/david/code/JS/echo(a).js",
+		"/home/david/code/JS/fast js tutorial - 1.html",
+		"/home/david/code/JS/functiontest.js",
+		"/home/david/code/php/test.php",
+		"/opt/lampp/htdocs/mycode/test clicker.php",
+		"/home/david/code/php/test clicker.php",
+		"/home/david/code/OpenGL/glfw-3.0.4/src/joystick.c",
+		"/home/david/code/OpenGL/glfw-3.0.4/src/init.c",
+		"/home/david/code/OpenGL/glfw-3.0.4/src/cocoa_time.c",
+		"/home/david/code/html/12 minutes html.html",
+		"/home/david/code/MyJin/BZFPS-master/main.c",
+		"/home/david/code/OpenGL/glfw-3.0.4/src/internal.h",
+		"/home/david/code/OpenGL/glfw-3.0.4/tests/CMakeLists.txt",
+		"/home/david/code/php/action.php",
+		"/home/david/code/php/formtut1.html",
+		"/opt/lampp/htdocs/mycode/hello2.php",
+		"/home/david/code/php/help",
+		"/opt/lampp/htdocs/test.php",
+		"/home/david/code/php/test2.php",
+		"/home/david/Downloads/src/torchat.py",
+		"/opt/lampp/htdocs/test2.php",
+		"/home/david/code/php/test2",
+		"/home/david/Downloads/src/tc_client.py",
+		"/home/david/Downloads/src/tc_mac.py",
+		"/home/david/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/david/code/Python/MIT 6/lec 2.py",
+		"/home/david/code/MyJin/greyhack-master/src/filesystem.c",
+		"/home/david/code/MyJin/greyhack-master/src/types.h",
+		"/home/david/code/MyJin/greyhack-master/src/filesystem.h",
+		"/home/david/code/OpenGL/freeglut-2.8.1/include/GL/glut.h",
+		"/home/david/code/OpenGL/freeglut-2.8.1/progs/demos/Makefile",
+		"/home/david/code/OpenGL/freeglut-2.8.1/progs/Makefile.am",
+		"/home/david/code/OpenGL/freeglut-2.8.1/progs/Makefile.in",
+		"/home/david/code/OpenGL/freeglut-2.8.1/include/GL/freeglut.h",
+		"/home/david/code/MyJin/greyhack-master/Makefile",
+		"/home/david/code/OpenGL/freeglut-2.8.1/progs/Makefile",
+		"/home/david/code/MyJin/greyhack-master/CMakeLists.txt",
+		"/home/david/code/MyJin/greyhack-master/cmake_install.cmake",
+		"/home/david/code/OpenGL/freeglut-2.8.1/progs/demos/Makefile.am",
+		"/home/david/code/OpenGL/freeglut-2.8.1/progs/demos/demos.dsw",
+		"/home/david/code/OpenGL/freeglut-2.8.1/progs/demos/Resizer/main.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"innerHTML",
+			"\">\n",
+			"id",
+			"red"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1176,
+								1176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "colors.js",
+					"settings":
+					{
+						"buffer_size": 1308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1262,
+								1262
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 209.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "radius.js",
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.js",
+					"settings":
+					{
+						"buffer_size": 1977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "master.css",
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1035,
+								1035
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 444.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
